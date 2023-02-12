@@ -3,8 +3,7 @@
 ## Setup
 Enter the following inputs:  
 1. Name of the game
-2. Date
-3. Number of players per match
+2. Number of players per match
   
 
 ## Usage
